@@ -1,0 +1,33 @@
+#topnav {
+  overflow: hidden;
+}
+
+#topnav a {
+  float: right;
+  font-family: arial, sans-serif;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 13px;
+}
+
+#topnav a:hover {
+  text-decoration: underline;
+}
+
+#btmnav {
+  background-color: grey;
+  font-family: arial, sans-serif;
+  color: rgba(0,0,0,.54);
+  border-bottom: 1px solid #e4e4e4;
+  overflow: hidden;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+#logo {
+  height: 233px;
+  margin-top: 50px;
+}
