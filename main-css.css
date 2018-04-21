@@ -31,15 +31,14 @@
   height: 233px;
   margin-top: 50px;
 }
-<<<<<<< HEAD
 
 #search {
   border: medium none;
-  padding: 12px;
+  padding: 10px;
   margin: 0px;
   width: 40%;
   box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16),0 0 0 1px rgba(0,0,0,0.08);
-  background: transparent;
+  background: tranparent;
 }
 
 .btn {
@@ -50,9 +49,9 @@
   font-size: 14px;
   border: 1px solid #f2f2f2;
   border-radius: 2px;
-  padding: 10px 16px;
+  padding: 0 16px;
   margin: 11px 4px;
+  height: 36px;
+  line-height: 27px;
   text-align: center;
 }
-=======
->>>>>>> d1ede50f07fec9bf31e58ba0c0183cb7811f96ae
