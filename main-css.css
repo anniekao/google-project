@@ -55,3 +55,10 @@
   line-height: 27px;
   text-align: center;
 }
+
+.btn:hover {
+  background-color: #f0f2f3;
+  color:black;
+  border: 1px solid #D3D3D3;
+
+}
